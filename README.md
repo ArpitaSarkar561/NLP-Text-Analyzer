@@ -1,6 +1,6 @@
 NLP Text Analyzer App
 
-This is a simple Natural Language Processing (NLP) web application built with Python and Streamlit. It allows users to input a block of text and perform basic NLP tasks, including sentiment analysis, keyword extraction, and a simple text summarization.
+This is a simple Natural Language Processing (NLP) web application built with Python and Streamlit. It allows users to input a block of text and perform basic NLP tasks, including sentiment analysis, keyword extraction, and simple text summarization.
 
 Features
 Sentiment Analysis: Determines the overall sentiment (positive, negative, or neutral) of the input text using the TextBlob library with a Naive Bayes analyzer. It also provides polarity and subjectivity scores.
